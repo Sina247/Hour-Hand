@@ -14,3 +14,9 @@ A **sleek, interactive time visualization project** built with **HTML, CSS and J
 - 🌐 **Cross-browser support** : Compatible with Chrome, Firefox, Safari and Edge.  
 - 🛠️ **Easy integration** : Simple to embed in any web page or project.  
 - 🖌️ **Flexible behavior** : Supports custom time zones, themes and animation speeds.
+
+---
+
+## 🖼️ Screenshot
+
+<img width="1919" height="692" alt="Screenshot 2025-12-06 212518" src="https://github.com/user-attachments/assets/30f7a7b1-a939-42c5-a2cd-6e5164e4cd6e" />
